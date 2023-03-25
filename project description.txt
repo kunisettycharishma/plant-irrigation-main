@@ -1,0 +1,11 @@
+level as measured by the soil moisture sensor, ensuring that plants receive the appropriate amount of water without the risk of overwatering or underwatering.
+
+Maintaining the correct moisture levels in soil is a crucial aspect of plant care, and it can be challenging to ensure that plants are receiving the right amount of water. Overwatering can lead to root rot, while underwatering can cause stunted growth and even death in extreme cases. Traditional methods of watering, such as using a watering can or hose, can be time-consuming and unreliable, especially if you have a large number of plants to care for.
+
+A plant irrigation system using a soil moisture sensor offers an automated solution to this problem. The system works by monitoring the moisture level of the soil and then watering the plant when needed using a 5v DC motor-based water pump. This ensures that plants receive the optimal amount of water, promoting healthy growth and reducing the risk of plant damage.
+
+The system consists of a soil moisture sensor, a 12-volt water pump, a relay module, and an Arduino UNO microcontroller platform. The soil moisture sensor is inserted into the soil and measures the moisture level, sending this data to the microcontroller. The microcontroller then uses the control algorithms to determine if the soil requires watering. If the moisture level is too low, the microcontroller activates the relay module, which in turn activates the water pump, and water is poured into the pot. Once the soil has reached the appropriate moisture level, the water pump is turned off.
+
+The system's physical prototype was produced through system integration, and tests were carried out to validate its functionality. The results showed that the system worked effectively and efficiently, ensuring that plants received the right amount of water.
+
+In conclusion, a plant irrigation system using a soil moisture sensor is an excellent solution for maintaining healthy plants while reducing the risk of overwatering or underwatering. It is an automated and reliable way to ensure that your plants receive the appropriate amount of water, promoting healthy growth and reducing the risk of plant damage. This system is easy to install, and with its efficient operation, it can save you time and effort while improving your plants' health.
